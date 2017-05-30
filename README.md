@@ -1,5 +1,5 @@
 # Week9
-# Final Project-Mapping and visulization of Migratory Birds Data through R
+# Final Project: Mapping and Visualizing  Migratory Birds Data through R
 # Introduction: 
 Migratory birds comprise a significant portion of global biodiversity and provide valuable ecosystem services. Nevertheless, since many migratory birds regularly travel from one place to another over long distance, they can be influenced by many events across the land and sea in different regions and countries. Billions of dollars have been invested into conservation and numerous protected areas have been established to protect these migratory birds. Unfortunately, these conservation efforts do not always generate successful outcomes, and we still observe significant decline of migratory birds’ habitats and populations. According to the research from Birdlife International, 20% of the two thousand known bird species make regular seasonal migration and many of them have to travel thousands of miles to breed. More than 40% of them are declining and almost 200 species are globally threatened. 
  
